@@ -1,0 +1,6 @@
+nodes:
+- input.visual:
+    source: 0
+- model.posenet
+- custom_nodes.dabble.pushup
+- output.screen
